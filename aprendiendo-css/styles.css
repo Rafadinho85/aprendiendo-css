@@ -2,8 +2,29 @@
 ######### SELECTORES #############
 
 */
+
 /* SELECTOR UNIVERSAL
 */
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/*Selector de etiqueta*/
+h1{
+    background: red;
+    color: white;
+    padding: 10px;
+}
+
+a{
+    font-size: 18px;
+    color: green;
+    text-decoration: none;
+}
+
+footer a {
+    color: red;
+}
+
+/*Selector de id*/
+/*Selector de clase */
+/*Selector de atributo*/
