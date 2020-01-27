@@ -26,5 +26,14 @@ footer a {
 }
 
 /*Selector de id*/
+
+#description {
+    border: 3px solid black;/*poniendo un border solido*/
+    padding: 15px;/*margen interior*/
+}
+#titulo{
+    background: blue;
+    border: 2px dashed white;
+}
 /*Selector de clase */
 /*Selector de atributo*/
