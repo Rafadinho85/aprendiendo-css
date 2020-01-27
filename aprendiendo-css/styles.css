@@ -36,4 +36,18 @@ footer a {
     border: 2px dashed white;
 }
 /*Selector de clase */
+.parrafo{
+    font-style: italic;/*estilo en cursiva*/
+    /*text-decoration: underline;  /*agregar subrayado*/
+    font-weight: bold; /*estilo en negrita*/
+}
+.parrafo1, .parrafo3{
+    background: green;
+    color: white;
+    padding: 10px;
+}
+.parrafo3{
+    background-color: orange;
+    color: black;
+}
 /*Selector de atributo*/
