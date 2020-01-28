@@ -57,7 +57,7 @@ footer a {
     margin-bottom: 15px;
     padding: 20px;
 }
-#usuario form *{
+#usuario form *{/*asterisco nos permite seleccionar todos los form*/
     display: block;
 }
 input[type="text"]{
@@ -70,6 +70,7 @@ input[type="submit"]{
     color: cornsilk;
     padding: 15px;
     font-size: 15px;
-    text-transform:uppercase;
+    text-transform:uppercase;/*transformar el texto a mayuscula*/
     border: 1px solid black;
+    cursor: pointer;
 }
